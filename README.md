@@ -10,7 +10,7 @@
 - I have a Bachelor degree in Computer Science
 - My favorite programming languages nowadays are **Kotlin**, **Java**, **Swift** and **Dart**
 - My current interests are **Mobile Technologies**, **Best Practices** and **Software architecture**
-- 💬 If you need something, will be a pleasure help you.
+- 💬 If you need something, will be a pleasure help you
 ---
 
 
