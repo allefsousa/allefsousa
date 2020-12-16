@@ -14,7 +14,7 @@
 ---
 
 
-### Technologies & Tools
+### Technologies and Tools
 
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-iOS-informational?style=flat&logo=ios&logoColor=white&color=9400D3)
