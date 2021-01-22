@@ -14,10 +14,10 @@
 ---
 
 
-!<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=allefsousa&theme=buefy"/>  
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=allefsousa&theme=buefy"/>  
 
 
 
-![](https://komarev.com/ghpvc/?username=allefsousa&style=flat)
+[](https://komarev.com/ghpvc/?username=allefsousa&style=flat)
 
 
