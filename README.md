@@ -14,25 +14,8 @@
 ---
 
 
-### Technologies and Tools
+!<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=allefsousa&theme=buefy"/>  
 
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-iOS-informational?style=flat&logo=ios&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Code-ReactiveX-informational?style=flat&logo=reactivex&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Tools-Codecov-informational?style=flat&logo=codecov&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/CI/CD-CodeMagic-informational?style=flat&logo=codemagic&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/CI/CD-Bitrise-informational?style=flat&logo=bitrise&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=9400D3)
 
 
 ![](https://komarev.com/ghpvc/?username=allefsousa&style=flat)
