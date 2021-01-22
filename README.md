@@ -16,6 +16,15 @@
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=allefsousa&theme=buefy"/>  
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ![](https://komarev.com/ghpvc/?username=allefsousa&style=flat)
