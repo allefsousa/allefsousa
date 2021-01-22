@@ -18,6 +18,6 @@
 
 
 
-[](https://komarev.com/ghpvc/?username=allefsousa&style=flat)
+![](https://komarev.com/ghpvc/?username=allefsousa&style=flat)
 
 
