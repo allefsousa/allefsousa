@@ -14,7 +14,7 @@
 ---
 
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=allefsousa&theme=buefy"/></td>
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=allefsousa&theme=buefy"/>
 
 
 <br/>
@@ -22,6 +22,13 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
 
 
 ![](https://github-profile-trophy.vercel.app/?username=allefsousa)
