@@ -14,17 +14,18 @@
 ---
 
 
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=allefsousa&theme=buefy"/>  
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=allefsousa&theme=buefy"/></td>
+
 
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+
+![](https://github-profile-trophy.vercel.app/?username=allefsousa)
+
 
 
 ![](https://komarev.com/ghpvc/?username=allefsousa&style=flat)
