@@ -13,8 +13,6 @@
 - 💬 If you need something, will be a pleasure help you
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=allefsousa)
-
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=allefsousa&count_private=true&show_icons=true)
 <br/>
 <br/>
