@@ -5,6 +5,11 @@
 <a href="https://dev.to/allefsousa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
 
+
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+
 ### Hi 👋, my name is Allef Sousa! 
 
 - I have a Bachelor degree in Computer Science
@@ -19,9 +24,12 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=allefsousa&hide_border=true)
 
-
-
-
 ![](https://komarev.com/ghpvc/?username=allefsousa&style=flat)
+
+
+
+
+
+
 
 
