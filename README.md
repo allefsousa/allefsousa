@@ -33,9 +33,8 @@
 
 <br/>
 <br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=allefsousa&style=flat" alt="allefsousa" />
-</div>
+ <img src="https://komarev.com/ghpvc/?username=allefsousa&style=flat" alt="allefsousa" />
+
 
 
   
