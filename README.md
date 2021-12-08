@@ -34,7 +34,7 @@
 <br/>
 <br/>
 <div align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=allefsousa&style=flat" alt="allefsousa" />
+  <img src="https://komarev.com/ghpvc/?username=allefsousa&style=flat" alt="allefsousa" />
 </div>
 
 
