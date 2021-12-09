@@ -16,6 +16,11 @@
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allefsousa&show_icons=true&locale=en&theme=prussian" alt="allefsousa" /></div>
 <br/>
 <br/>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefsousa&layout=compact&locale=en&theme=prussian" alt="allefsousa" /></div>
+
+
+<br/>
+<br/>
 <div align="center">
 <strong>
   <font size="+2" style="font">
@@ -30,6 +35,7 @@
 <a href="https://stackoverflow.com/users/7396615" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white" alt="Stackoverflow"></a>
 <a href="https://dev.to/allefsousa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
+
 
 <br/>
 <br/>
