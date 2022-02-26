@@ -34,6 +34,10 @@
 <a href="https://www.twitter.com/Allefsousa01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="LinkedIn"></a>
 <a href="https://stackoverflow.com/users/7396615" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white" alt="Stackoverflow"></a>
 <a href="https://dev.to/allefsousa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<br/>
+<br/>
+
+  <p align="center"><a href="https://github.com/allefsousa"><img alt="Allef Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allefsousa&bg_color=2b2827&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 </div>
 
 
