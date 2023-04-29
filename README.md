@@ -37,7 +37,6 @@
 <br/>
 <br/>
 
-  <p align="center"><a href="https://github.com/allefsousa"><img alt="Allef Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=allefsousa&bg_color=2b2827&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 </div>
 
 
