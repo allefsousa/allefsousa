@@ -19,9 +19,9 @@
 
   
   <table>
-    <tr><td><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allefsousa&theme=github_dark"/></td><td>
-    <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allefsousa&theme=github_dark"/></td><td>
-    <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allefsousa&theme=github_dark"/></td></tr>
+    <tr><td><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allefsousa&theme=github_dark"/></td><td>
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allefsousa&theme=github_dark"/></td><td>
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allefsousa&theme=github_dark"/></td></tr>
   </table>
   
   </div>
