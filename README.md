@@ -9,22 +9,19 @@
 - My current interests are **Mobile Technologies**, **Best Practices** and **Software architecture**
 - 💬 If you need something, will be a pleasure help you.
 ---
-<br/>
-<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=allefsousa&theme=github_dark&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div>
-<br/>
-<br/>
 
 <div align="center"><br>
 
 <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allefsousa&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allefsousa&theme=github_dark"/></td></tr>
+    <tr><td><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allefsousa&theme=github_dark"/></td><td>
+   <img height="190em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=allefsousa&theme=github_dark&date_format=j%20M%5B%20Y%5D" alt="allefsousa" />
+        </td></tr>
   </table>
   
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allefsousa&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allefsousa&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allefsousa&theme=github_dark"/></td></tr>
+    <tr><td><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allefsousa&theme=github_dark"/></td><td>
+    <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allefsousa&theme=github_dark"/></td><td>
+    <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allefsousa&theme=github_dark"/></td></tr>
   </table>
   
   </div>
@@ -33,18 +30,34 @@
 <br/>
 <br/>
 <div align="center">
-<strong>
-  <font size="+2" style="font">
-  Allefsousa © 2023
-  </font>
-</strong>
+    <strong>
+        <font size="+2" style="font"> Allefsousa © 2023 </font>
+    </strong>
 </div>
-<br/>
+<br />
 <div align="center">
-<a href="https://www.linkedin.com/in/allef-sousa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.twitter.com/Allefsousa01" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="LinkedIn"></a>
-<a href="https://stackoverflow.com/users/7396615" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white" alt="Stackoverflow"></a>
-<a href="https://dev.to/allefsousa" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+    <a href="https://www.linkedin.com/in/allef-sousa" target="_blank"
+        ><img
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"
+            alt="LinkedIn"
+    /></a>
+    <a href="https://www.twitter.com/Allefsousa01" target="_blank"
+        ><img
+            src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white"
+            alt="LinkedIn"
+    /></a>
+    <a href="https://stackoverflow.com/users/7396615" target="_blank"
+        ><img
+            src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white"
+            alt="Stackoverflow"
+    /></a>
+    <a href="https://dev.to/allefsousa" target="_blank"
+        ><img
+            src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"
+            alt="DEV.to"
+    /></a>
+</div>
+
 <br/>
 <br/>
 
