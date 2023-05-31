@@ -9,14 +9,14 @@
 - My current interests are **Mobile Technologies**, **Best Practices** and **Software architecture**
 - 💬 If you need something, will be a pleasure help you.
 ---
-
 <div align="center"><br>
 
-<table>
-    <tr><td><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allefsousa&theme=github_dark"/></td><td>
-   <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=allefsousa&show_icons=true&theme=transparent" alt="allefsousa" />
-        </td></tr>
-  </table>
+<img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=allefsousa&show_icons=true&theme=transparent"  />
+    </div>
+
+<div align="center"><br>
+    <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allefsousa&theme=github_dark"/>
+
   
   <table>
     <tr><td><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allefsousa&theme=github_dark"/></td><td>
