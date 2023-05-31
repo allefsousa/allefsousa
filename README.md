@@ -10,13 +10,24 @@
 - 💬 If you need something, will be a pleasure help you.
 ---
 <br/>
-<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=allefsousa&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div>
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=allefsousa&theme=github_dark&date_format=j%20M%5B%20Y%5D" alt="pedromdsn" /></div>
 <br/>
 <br/>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allefsousa&show_icons=true&locale=en&theme=prussian" alt="allefsousa" /></div>
-<br/>
-<br/>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefsousa&layout=compact&locale=en&theme=prussian" alt="allefsousa" /></div>
+
+<div align="center"><br>
+
+<table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allefsousa&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allefsousa&theme=github_dark"/></td></tr>
+  </table>
+  
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allefsousa&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allefsousa&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allefsousa&theme=github_dark"/></td></tr>
+  </table>
+  
+  </div>
 
 
 <br/>
