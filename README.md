@@ -14,7 +14,7 @@
 
 <table>
     <tr><td><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allefsousa&theme=github_dark"/></td><td>
-   <img height="190em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=allefsousa&theme=github_dark&date_format=j%20M%5B%20Y%5D" alt="allefsousa" />
+   <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=allefsousa&show_icons=true&theme=transparent" alt="allefsousa" />
         </td></tr>
   </table>
   
