@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <strong>
-        <font size="+2" style="font"> Allefsousa © 2024 </font>
+        <font size="+2" style="font"> Allefsousa © 2025 </font>
     </strong>
 </div>
 <br />
