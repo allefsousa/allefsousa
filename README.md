@@ -1,83 +1,55 @@
+<h1 align="center">Allef Sousa</h1>
+<p align="center"><strong>Android Engineer · Kotlin · Mobile Architecture</strong></p>
 
+<p align="center">
+  <a href="https://www.allefsantos.dev/"><img src="https://img.shields.io/badge/Portfolio-allefsantos.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/allef-sousa/"><img src="https://img.shields.io/badge/LinkedIn-allef--sousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/allefsousa"><img src="https://img.shields.io/badge/DEV.to-allefsousa-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+</p>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-
-### Hi 👋, my name is Allef Sousa
-
-- I have a Bachelor degree in Computer Science
-- My favorite programming languages nowadays are **Kotlin**, **Java**, **Swift** and **Dart**
-- My current interests are **Mobile Technologies**, **Best Practices** and **Software architecture**
-- 💬 If you need something, will be a pleasure help you.
 ---
-<div align="center"><br>
 
-<img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=allefsousa&show_icons=true&theme=transparent"  />
-    </div>
+## About me
 
-<div align="center"><br>
-    <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allefsousa&theme=github_dark"/>
-<br/>
-<br/>
-  
-  <table>
-    <tr><td><img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allefsousa&theme=github_dark"/></td><td>
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allefsousa&theme=github_dark"/></td><td>
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allefsousa&theme=github_dark"/></td></tr>
-  </table>
-  
-  </div>
+Software developer since 2012, specialized in **native Android development with Kotlin**. I build large-scale apps with a focus on **clean architecture, performance, memory optimization and code quality**.
 
+- 🏗️ App architecture: MVVM, MVI, Clean Architecture and modularization
+- ⚡ Performance: data-heavy apps with efficient memory usage
+- 🧪 Quality: unit and UI testing, test coverage and continuous integration
+- 🎨 Design Systems: reusable components with Jetpack Compose
+- 🎓 B.Sc. in Computer Science
 
-<br/>
-<br/>
-<div align="center">
-    <strong>
-        <font size="+2" style="font"> Allefsousa © 2025 </font>
-    </strong>
-</div>
-<br />
-<div align="center">
-    <a href="https://www.linkedin.com/in/allef-sousa" target="_blank"
-        ><img
-            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"
-            alt="LinkedIn"
-    /></a>
-    <a href="https://www.twitter.com/Allefsousa01" target="_blank"
-        ><img
-            src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white"
-            alt="LinkedIn"
-    /></a>
-    <a href="https://stackoverflow.com/users/7396615" target="_blank"
-        ><img
-            src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white"
-            alt="Stackoverflow"
-    /></a>
-    <a href="https://dev.to/allefsousa" target="_blank"
-        ><img
-            src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"
-            alt="DEV.to"
-    /></a>
-</div>
+## Tech stack
 
-<br/>
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle%20Kotlin%20DSL-02303A?style=flat-square&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart%20%2F%20Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
-</div>
+## Featured projects
 
+| Project | What it shows |
+| --- | --- |
+| [Polaris Design System](https://github.com/BravveCo/Polaris-Design-System) | Kotlin design system with reusable UI components |
+| [Android-Architecture-MVVM](https://github.com/allefsousa/Android-Architecture-MVVM) | Decoupled, testable MVVM architecture |
+| [Android-Test-Coverage](https://github.com/allefsousa/Android-Test-Coverage) | Unit and UI tests with coverage reports |
+| [BuildSrc-Kotlin-DSL](https://github.com/allefsousa/BuildSrc-Kotlin-DSL) | Dependency management with Gradle Kotlin DSL |
+| [Android-SSL-Security](https://github.com/allefsousa/Android-SSL-Security) | Certificate pinning against man-in-the-middle attacks |
 
-<br/>
-<br/>
- <img src="https://komarev.com/ghpvc/?username=allefsousa&style=flat" alt="allefsousa" />
+## GitHub stats
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=allefsousa&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefsousa&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
+---
 
-  
-
-
-
-
-
-
-
-
-
+<p align="center">💬 Always happy to talk about mobile architecture, performance and best practices.</p>
