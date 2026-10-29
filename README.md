@@ -43,13 +43,6 @@ Software developer since 2012, specialized in **native Android development with 
 | [BuildSrc-Kotlin-DSL](https://github.com/allefsousa/BuildSrc-Kotlin-DSL) | Dependency management with Gradle Kotlin DSL |
 | [Android-SSL-Security](https://github.com/allefsousa/Android-SSL-Security) | Certificate pinning against man-in-the-middle attacks |
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=allefsousa&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefsousa&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
 ---
 
 <p align="center">💬 Always happy to talk about mobile architecture, performance and best practices.</p>
